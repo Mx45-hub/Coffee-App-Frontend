@@ -1,0 +1,23 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .card {
+    margin: 10px;
+    box-sizing: border-box;
+  }
+
+  .coffee{
+    text-align: center;
+  }
+
+
+.main {
+  background-color: rgb(24, 180, 78);
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  height: 10vh; 
+}
